@@ -77,14 +77,5 @@ Développer un **modèle prédictif robuste** capable de prédire la survie d'un
 
 ---
 
-## 🚀 Utilisation
 
-Pour exécuter ce projet :
-
-1. Clonez le dépôt
-2. Installez les dépendances : `pip install -r requirements.txt` (si disponible)
-3. Ouvrez et exécutez le notebook : `jupyter notebook project_python.ipynb`
-4. Consultez le rapport pour les résultats détaillés
-
----
 
